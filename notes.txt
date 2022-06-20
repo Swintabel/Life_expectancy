@@ -1,0 +1,3 @@
+https://www.britannica.com/science/life-expectancy
+https://www.who.int/data/gho/indicator-metadata-registry/imr-details/65
+https://data-innovation.org/an-experimental-exploratory-data-analysis-for-a-classification-task-pre-conference-workshop-25-06-2020/
