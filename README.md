@@ -2,7 +2,6 @@
 
 # Life-Expectancy
 
-[Data Cleaning Process](https://swintabel.github.io/Life_expectancy/pages/DataQA.html)
+[Data Cleaning Process](https://www.kaggle.com/code/swintabelagyei/eda-life-expectancy)
 
 
-[on kaggle](https://www.kaggle.com/swintabelagyei/eda-life-expectancy)
